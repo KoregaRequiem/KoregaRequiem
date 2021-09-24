@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 main() {
-printf("©êºp\n");
+
+    printf("å¸¥å“¥\");
 }
